@@ -16,7 +16,7 @@
 
 **Metabolomics:**
 * Targeted metabolomics data analysis
-* **Tools:** Mass Hunter, MetaboAnalyst
+* **Tools:** Mass Hunter, MetaboAnalyst,ms-dial, Metabolight, Metaspace etc..
 
 **Proteomics:**
 * Protein-ligand interaction studies
