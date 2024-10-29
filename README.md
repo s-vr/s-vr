@@ -2,7 +2,7 @@
 [![MasterHead](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3e50c2d0-5567-5383-87c8-9cec19e86b1e/fab81a65-2c50-5a4f-a0f6-a4279f631876.jpg)](link-to-where-image-should-point)
 
 <h1 align="center">Hi 👋, I'm Vishnu Raj S</h1>
-<h1 align="center">Bioinformatician and Biochemist</h1> 
+<h1 align="center">Bioinformatician & Biochemist</h1> 
 
 <img align="right" alt="Coding" width="300" src="https://mhi-omics.org/wp-content/uploads/2020/12/peek-2020-12-18-11-32.gif"> 
 
@@ -39,9 +39,7 @@
 **Bioinformatics & Data Science:**
 * **Programming Languages:** R, Python, Bash
 * **Data Analysis & Visualization:** R, Python
-* **Machine Learning:** [List specific algorithms or libraries you use]
-* **Deep Learning:** PyTorch 
-* **Other Tools:** Biopython, Bioconductor (add more as needed) 
+* **Other Tools:** Biopython, Bioconductor
 
 ## 🌱  Current Focus
 * Applying for PhD in Metabolomics
